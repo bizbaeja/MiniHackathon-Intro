@@ -1,3 +1,8 @@
+# MiniHackathon-Intro
+# Figma link 
+
+https://www.figma.com/file/BjF4chFkgXSHFul2t5PmAV/Untitled?node-id=0%3A1
+
 ## To do list
 
 - 투두리스트 구현
@@ -91,4 +96,3 @@ var article = document.getElementById('electriccars');
 article.dataset.columns = 3
 article.dataset.indexNumber = "12314"
 ```
-# MiniHackathon-Intro
